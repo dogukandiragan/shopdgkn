@@ -2,7 +2,7 @@
 
   Online Shop — E-Commerce project built with ASP.NET Core MVC & Web API, featuring N-Tier Architecture, JWT Authentication, Entity Framework Core, Repository & Service patterns, and AutoMapper
   
-  🚀 Live Demo [Projeyi canlı görmek için tıklayın](http://shop.dgkn.net)
+  🚀 Live Demo <a href="http://shop.dgkn.net" target="_blank">Projeyi canlı görmek için tıklayın</a>
   
   - MVC WebSite
   - WebAPI + RestSharp
